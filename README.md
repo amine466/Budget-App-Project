@@ -1,6 +1,6 @@
 # 🐍 Scientific Computing with Python - FreeCodeCamp  
 
-This repository contains my solutions for the **Scientific Computing with Python** certification on [FreeCodeCamp](https://www.freecodecamp.org/).
+This repository contains my solutions for the **Scientific Computing with Python** certification projects on [FreeCodeCamp](https://www.freecodecamp.org/).
 
 ## 📂 **Projects Included**  
 
