@@ -8,4 +8,5 @@ Each project follows FreeCodeCamp’s guidelines and serves as a practical appli
 
 1. **Arithmetic Formatter** - A script that formats simple arithmetic problems in a structured layout.  
 2. **Time Calculator** - A function that calculates the new time after adding a certain duration to a given time.  
-3. **Budget App** - A program that manages different categories of expenses and generates spending visualizations.  
+3. **Budget App** - A program that manages different categories of expenses and generates spending visualizations.
+4. **Polygon Area Calculator** - A class-based approach to calculating the area and perimeter of rectangles and squares. 
